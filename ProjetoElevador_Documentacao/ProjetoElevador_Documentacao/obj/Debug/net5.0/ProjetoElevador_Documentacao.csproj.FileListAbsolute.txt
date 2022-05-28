@@ -1,0 +1,8 @@
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.csproj.AssemblyReference.cache
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.AssemblyInfoInputs.cache
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.AssemblyInfo.cs
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.RazorAssemblyInfo.cache
+C:\Users\Maicon\source\Repos\ProjetoElevador_Documentacao\ProjetoElevador_Documentacao\obj\Debug\net5.0\ProjetoElevador_Documentacao.RazorAssemblyInfo.cs
